@@ -1,8 +1,8 @@
-## Terraform : wordpress on aws Lightsail
+## Terraform : Wordpress on aws Lightsail
 
 I made this terraform project to deploy wordpress on aws lightsail. 
 
-All the varibales e.g region, blueprint selection is in the variables.tf file. Change those variable accordingly to your preferences.
+All the variables e.g region, blueprint selection is in the variables.tf file. Change those variables accordingly to your preferences.
 
 #### Terraform commands to run -
 terraform init
